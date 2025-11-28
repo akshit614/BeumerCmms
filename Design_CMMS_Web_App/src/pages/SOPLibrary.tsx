@@ -166,7 +166,7 @@ export default function SOPLibrary() {
         </Button>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         <Card>
           <CardContent className="p-6">
             <div className="text-slate-600 text-sm">Total SOPs</div>
