@@ -101,13 +101,13 @@ export default function Dashboard() {
             Welcome back! Here's what's happening today.
           </p>
         </div>
-        <Button
+        {/* <Button
           onClick={() => setShowQRScan(true)}
           className="bg-blue-600 hover:bg-blue-700"
         >
           <QrCode className="mr-2 h-4 w-4" />
           Scan QR Code
-        </Button>
+        </Button> */}
       </div>
 
       {/* Stats Grid */}
